@@ -1,0 +1,10 @@
+{
+    "id":2,
+
+    "name":"document_2",
+
+    "creationDayOfWeek":"Fri"
+
+    "exclusive_prop_2":"exclusive2"
+
+}

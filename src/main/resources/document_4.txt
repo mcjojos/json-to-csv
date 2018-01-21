@@ -1,0 +1,10 @@
+{
+    "id":4,
+
+    "name":"document_4",
+
+    "creationMonth":"Jan"
+
+    "exclusive_prop_4":"exclusive4"
+
+}
